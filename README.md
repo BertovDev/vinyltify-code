@@ -1,7 +1,9 @@
-# Vinyltify
-> "Version 1"
+# Vinyltify :musical_note:
+> "Version 1" :coffee:
 
-## Play your favorite songs on a turntable!
+## Play your favorite songs on a turntable! :sunglasses: 
+
+### Live version! -> [Vinyltify](https://vinyltify.herokuapp.com/ "live app")
 
 ### Installation
 You need **Node.js** in order to run this application.
