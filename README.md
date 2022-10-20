@@ -1,4 +1,4 @@
-# Vinyltify
+# Vinyltify v1
 ## Play your favorite songs on a turntable!
 
 ### Installation
