@@ -1,3 +1,4 @@
+# Project continue in this ----> [Vinyltify new repo](https://github.com/BertovDev/viniltify_app)
 # Vinyltify :musical_note:
 > "Version 1" :coffee:
 
